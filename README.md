@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **omdtandulkar@gmail.com**
 
-- 📄 Know about my experiences [https://omatandulkar.tiiny.site](https://omatandulkar.tiiny.site)
+- 📄 Know about my experiences [https://omatandulkar.tiiny.site](https://omtandulkar.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
