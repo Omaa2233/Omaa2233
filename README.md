@@ -29,6 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omaa2233&show_icons=true&locale=en" alt="omaa2233" /></p>
 
-<p>&nbsp;<img align="center" src="https://portfolio-beta-nine-85.vercel.app/" alt="omatandulkar@gmail.com"/></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omaa2233&" alt="omaa2233" /></p>
