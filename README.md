@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **omatandulkar@gmail.com**
 
-- 📄 Know about my experiences [https://omatandulkar.tiiny.site](https://omtandulkar.tiiny.site)
+- 📄 Know about my experiences [https://online.publuu.com/578497/1298357](https://online.publuu.com/578497/1298357)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
