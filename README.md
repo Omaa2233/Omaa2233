@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omaa2233&label=Profile%20views&color=0e75b6&style=flat" alt="omaa2233" /> </p>
 
-- 🌱 I’m a Last year student pursuing Bachelor's degree in Engineering (Artificial Intelligence and Machine Learning) from University of Pune, india (expected 2025).
+- 🌱 I have completed my Bachelor's degree in Engineering with a specialization in Artificial Intelligence and Machine Learning from Savitribai Phule Pune University, India. (Graduated 2025).
 
 -  👦 I love to code, hack, break & tinker and spend my time exploring different aspect of computer science. 
 
-- 💬 Ask me about **HTML, JavaScript, CSS, C++, Java,Ionic, MERN.**
+- 💬 Ask me about **HTML, JavaScript, CSS, C++, Java,Ionic, MERN, Python, .**
 
 - 📫 How to reach me **omatandulkar@gmail.com**
 
